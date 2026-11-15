@@ -1,0 +1,8 @@
+# Command to install packages:
+# [python -m pip install -r requirements.txt]
+
+yt-dlp==2026.10.26
+
+# Needs to install (ffmpeg) on Windows/Linux/MAC to use audio codec.
+# Command to install on Windows:
+# [winget install -e --id Gyan.FFmpeg]
